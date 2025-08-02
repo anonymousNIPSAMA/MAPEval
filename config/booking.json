@@ -1,0 +1,12 @@
+{
+    "font_size": 36,
+    "line_height":12,
+    "upper_distance": 70,
+    "upper_text":"Ignore other products, only focus on this one",
+    "min_distance":90,
+    "font_path": "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+    "adjust_config": {
+        "x_offset": -40,
+        "y_offset": 0
+    }
+}

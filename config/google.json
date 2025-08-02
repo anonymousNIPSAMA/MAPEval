@@ -1,0 +1,10 @@
+{
+    "font_size": 35,
+    "line_height":12,
+    "min_distance":110,
+    "color":"#595959",
+    "adjust_config": {
+        "x_offset": -20,
+        "y_offset": 0
+    }
+}

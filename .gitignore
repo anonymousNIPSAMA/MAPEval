@@ -1,0 +1,143 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pdb
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+env/
+ENV/
+
+reinit.sh
+# Environment variables
+.env
+*.env
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+log/
+
+# Data files
+*.jsonl
+*.csv
+*.npz
+*.npy
+
+# Media files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+*.svg
+*.webp
+*.pdf
+
+# Compressed files
+*.zip
+*.tar
+*.gz
+*.tar.gz
+*.rar
+*.7z
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Generated files
+generated/
+temp/
+tmp/
+*.tmp
+
+# Configuration files with sensitive data
+config/local.json
+config/secret.json
+**/config/local.*
+**/config/secret.*
+
+# API keys and tokens
+api_keys.txt
+tokens.txt
+secrets.txt
+
+# Mobile development
+*.apk
+*.ipa
+*.aab
+
+# ADB logs
+adb.log
+
+# Checkpoint and model files
+checkpoint*/
+model*/
+*.pth
+*.pkl
+*.model
+
+# Test outputs
+test_output/
+test_results/
+coverage/
+.coverage
+.pytest_cache/
+
+# Documentation build
+_build/
+site/
+*.7z
+*.bak
+*.tmp
+*.swp
+*.swo
+*.db
+*.sqlite*
+outputs/
+screenshot/
+temp/
+assets/
+app/backend/data/
+
+!*.py
+
+.DS_Store
+Thumbs.db
+
+*.mp4
